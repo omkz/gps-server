@@ -1,0 +1,26 @@
+# Gradle
+.gradle
+
+# Eclipse
+.settings
+.metadata
+.project
+.classpath
+Servers
+RemoteSystemsTempFiles
+bin
+target
+
+# SpringSource Tool Suite
+.springBeans
+
+# Netbeans
+build
+dist
+private 
+
+# Log files
+*.log
+
+#idea 
+.idea
